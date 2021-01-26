@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dango</string>
+    <string name="title_activity_user_location_main">Map</string>
+
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_checkpoint">Map</string>
+    <string name="title_activity_follower_screen">Map</string>
+</resources>
