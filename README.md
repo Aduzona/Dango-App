@@ -9,4 +9,4 @@
 ### [APP APK](App%20APK): The latest version of the app 
 ### [Source code](TrackingApp)
 ### [Presentation Slide ](Presentation):  team presentation and every software development phase
-### [App demo](https://drive.google.com/file/d/1RYDLabpCgg6A-9UP5sdFyz0BK_58iBYM/view?usp=sharing))
+### [App demo](https://drive.google.com/file/d/1RYDLabpCgg6A-9UP5sdFyz0BK_58iBYM/view?usp=sharing):  A video demo of how the application works.
